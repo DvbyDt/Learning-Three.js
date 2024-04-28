@@ -1,4 +1,4 @@
 # Chapter 01 - Basics
 This chapter involves learning of the basics of three.js
 
- - [First three.js Project](https://github.com/DvbyDt/Learning-Three.js/tree/Branch-1/Chapter%2001-%20Basics/First%20Three.js%20Project/First%20Three.js%20Project)
+ - [First three.js Project](https://github.com/DvbyDt/Learning-Three.js/tree/main/Chapter%2001-%20Basics/First%20Three.js%20Project/First%20Three.js%20Project)

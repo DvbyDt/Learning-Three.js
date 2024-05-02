@@ -1,3 +1,5 @@
+# Fullscreen And Resizing
+
 - Resizing of windows can be handled by making use of the useProjectionMatrix().
 - Handling the pixel ratio: pixel ratio is nothing both how many physical pixels you have on your screen per unit of software.
 - Earlier every device had pixel ratio of 1. But apple started to get devices with pixel ratio of 2. This is good for image quality but pixel ratio of 2 means 4 times more pixels to render and 3 means 9 times more pixels to render.

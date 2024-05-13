@@ -9,4 +9,4 @@ This chapter involves learning of the basics of three.js
 - [Geometries](https://github.com/DvbyDt/Learning-Three.js/tree/main/Chapter%2001-%20Basics/Geometries/Geometries) - [Assignment](https://66348affaae330b5b1f53849--dulcet-sfogliatella-5f8f8e.netlify.app/)
 - [Debug UI](https://github.com/DvbyDt/Learning-Three.js/tree/main/Chapter%2001-%20Basics/Debug%20UI/Debug%20UI) - [Assignment](https://66366a3b4e766a131b38b5a1--precious-pegasus-aacfd2.netlify.app/)
 - [Textures](https://github.com/DvbyDt/Learning-Three.js/tree/main/Chapter%2001-%20Basics/Textures/Textures)
-- [Materials]() - [Assignment](https://6641d4ec329d2a953ace1acc--coruscating-squirrel-e85613.netlify.app/)
+- [Materials](https://github.com/DvbyDt/Learning-Three.js/tree/main/Chapter%2001-%20Basics/Materials/Materials) - [Assignment](https://6641d4ec329d2a953ace1acc--coruscating-squirrel-e85613.netlify.app/)
